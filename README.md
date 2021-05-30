@@ -1,1 +1,1 @@
-# Primer-Parcial-patrones
+# Primer parcial patrones de diseño Manuel valenzuela

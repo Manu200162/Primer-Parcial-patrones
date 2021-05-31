@@ -118,3 +118,17 @@ ejercicio2A/SmartTV.java
  ejercicio2A.SmartTV
 ejercicio2A/Client.java
  ejercicio2A.Client
+ejercicio5A/TerminalExpressionSumar.java
+ ejercicio5A.TerminalExpressionSumar
+ejercicio5A/InterpreterArit.java
+ ejercicio5A.InterpreterArit
+ejercicio5A/ContextArit.java
+ ejercicio5A.ContextArit
+ejercicio5A/AbstractExpression.java
+ ejercicio5A.AbstractExpression
+ejercicio5A/TerminalExpressionNumber.java
+ ejercicio5A.TerminalExpressionNumber
+ejercicio5A/TerminalExpressionRestar.java
+ ejercicio5A.TerminalExpressionRestar
+ejercicio5A/Client.java
+ ejercicio5A.Client

@@ -1,0 +1,3 @@
+(interpreter)Se tiene un lenguaje que se desea crear (interpretar), que consiste en
+interpretar las operaciones aritmeticas de suma , resta que se expresa como texto
+ejemplo: ( 1 sumar 2 restar 2 sumar 1 sumar 1) el resultado debería ser : 3

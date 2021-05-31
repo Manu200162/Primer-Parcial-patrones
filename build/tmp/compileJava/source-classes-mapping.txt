@@ -112,3 +112,9 @@ ejercicio1A/CasetaPeaje.java
  ejercicio1A.CasetaPeaje
 ejercicio1A/Client.java
  ejercicio1A.Client
+ejercicio2A/ITele.java
+ ejercicio2A.ITele
+ejercicio2A/SmartTV.java
+ ejercicio2A.SmartTV
+ejercicio2A/Client.java
+ ejercicio2A.Client

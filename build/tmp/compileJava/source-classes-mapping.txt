@@ -1,0 +1,114 @@
+builder/basic/Director.java
+ builder.basic.Director
+factoryMethod/basic/Creator.java
+ factoryMethod.basic.Creator
+prototype/basic/IPrototype.java
+ prototype.basic.IPrototype
+interpreter/basic/TerminalExpresionU.java
+ interpreter.basic.TerminalExpresionU
+interpreter/basic/TerminalExpresionO.java
+ interpreter.basic.TerminalExpresionO
+singleton/basic/Client3.java
+ singleton.basic.Client3
+ singleton.basic.Client3$1
+ singleton.basic.Client3$2
+interpreter/basic/TerminalExpresionI.java
+ interpreter.basic.TerminalExpresionI
+builder/basic/ConcreteBuilder1.java
+ builder.basic.ConcreteBuilder1
+interpreter/basic/Context.java
+ interpreter.basic.Context
+prototype/basic/noUsingPrototype/ClientNoPrototype.java
+ prototype.basic.noUsingPrototype.ClientNoPrototype
+iterator/basic/ListA.java
+ iterator.basic.ListA
+factoryMethod/basic/Cliente.java
+ factoryMethod.basic.Cliente
+abstractFactory/basic/ConcreteProduct1.java
+ abstractFactory.basic.ConcreteProduct1
+interpreter/basic/NoTerminalExpresion.java
+ interpreter.basic.NoTerminalExpresion
+iterator/basic/IList.java
+ iterator.basic.IList
+iterator/basic/Client.java
+ iterator.basic.Client
+factoryMethod/basic/ProductConcrete1.java
+ factoryMethod.basic.ProductConcrete1
+iterator/basic/ListB.java
+ iterator.basic.ListB
+abstractFactory/basic/FactoryProduct.java
+ abstractFactory.basic.FactoryProduct
+iterator/basic/IteratorConcreteListA.java
+ iterator.basic.IteratorConcreteListA
+singleton/basic/Singleton4.java
+ singleton.basic.Singleton4
+builder/basic/noUsingBuilder/Product.java
+ builder.basic.noUsingBuilder.Product
+abstractFactory/basic/ConcreteProduct2.java
+ abstractFactory.basic.ConcreteProduct2
+prototype/basic/noUsingPrototype/NoPrototype.java
+ prototype.basic.noUsingPrototype.NoPrototype
+singleton/basic/Singleton1.java
+ singleton.basic.Singleton1
+singleton/basic/Client1.java
+ singleton.basic.Client1
+factoryMethod/basic/ProductConcrete3.java
+ factoryMethod.basic.ProductConcrete3
+factoryMethod/basic/ConcreteCreator2.java
+ factoryMethod.basic.ConcreteCreator2
+prototype/basic/Client.java
+ prototype.basic.Client
+singleton/basic/Singleton2.java
+ singleton.basic.Singleton2
+singleton/basic/Client2.java
+ singleton.basic.Client2
+abstractFactory/basic/Client.java
+ abstractFactory.basic.Client
+ejercicio1A/Vehiculo.java
+ ejercicio1A.Vehiculo
+builder/basic/Product.java
+ builder.basic.Product
+interpreter/basic/TerminalExpresionA.java
+ interpreter.basic.TerminalExpresionA
+interpreter/basic/Client.java
+ interpreter.basic.Client
+singleton/basic/Singleton3.java
+ singleton.basic.Singleton3
+abstractFactory/basic/IProduct.java
+ abstractFactory.basic.IProduct
+builder/basic/Builder.java
+ builder.basic.Builder
+builder/basic/Client.java
+ builder.basic.Client
+builder/basic/ConcreteBuilder2.java
+ builder.basic.ConcreteBuilder2
+factoryMethod/basic/ConcreteCreator1.java
+ factoryMethod.basic.ConcreteCreator1
+interpreter/basic/TerminalExpresionE.java
+ interpreter.basic.TerminalExpresionE
+iterator/basic/Iterator.java
+ iterator.basic.Iterator
+factoryMethod/basic/ProductConcrete2.java
+ factoryMethod.basic.ProductConcrete2
+prototype/basic/ConcretePrototype.java
+ prototype.basic.ConcretePrototype
+factoryMethod/basic/IProduct.java
+ factoryMethod.basic.IProduct
+interpreter/basic/AbstractExpresion.java
+ interpreter.basic.AbstractExpresion
+builder/basic/noUsingBuilder/Client.java
+ builder.basic.noUsingBuilder.Client
+abstractFactory/basic/ConcreteProduct3.java
+ abstractFactory.basic.ConcreteProduct3
+iterator/basic/IteratorConcreteListB.java
+ iterator.basic.IteratorConcreteListB
+factoryMethod/basic/ConcreteCreator3.java
+ factoryMethod.basic.ConcreteCreator3
+ejercicio1A/ConductorVehiculo.java
+ ejercicio1A.ConductorVehiculo
+ejercicio1A/Administrador.java
+ ejercicio1A.Administrador
+ejercicio1A/CasetaPeaje.java
+ ejercicio1A.CasetaPeaje
+ejercicio1A/Client.java
+ ejercicio1A.Client
